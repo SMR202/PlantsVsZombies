@@ -1,0 +1,14 @@
+Player1
+50
+Player2
+100
+Player3
+150
+humayun
+300
+sameer
+2000
+sameer
+3050
+sameer
+2500
